@@ -1,2 +1,2 @@
 # learn
-Documentation as I move through the Udacity nanodegreefor Data Analysis.
+Documentation for data science activities.
